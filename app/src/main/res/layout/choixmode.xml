@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical"
+
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/choixmode2"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+        <RadioGroup
+            android:id="@+id/rgChoixMode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17dp"
+            android:tag="papi"
+            android:buttonTint="@color/bg_screen2"
+            android:layout_marginTop="20dp"
+            android:text="@string/choixmode3"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="16dp"
+            android:textColor="@color/noir"
+            android:text=
+                "@string/choixmode4"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textSize="15dp"
+            android:drawableLeft="@drawable/cocher"
+            android:textColor="@color/noir"
+            android:text=
+                "@string/choixmode5"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textSize="15dp"
+            android:drawableLeft="@drawable/cocher"
+            android:textColor="@color/noir"
+            android:text=
+                "@string/choixmode6"/>
+       <!-- <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textSize="15dp"
+            android:drawableLeft="@drawable/cocher"
+            android:textColor="@color/noir"
+            android:text=
+                "      Appareil photo/Galérie"/>-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textSize="15dp"
+            android:drawableLeft="@drawable/cocher"
+            android:textColor="@color/noir"
+            android:text=
+                "@string/choixmode7"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textSize="15dp"
+            android:drawableLeft="@drawable/cocher"
+            android:textColor="@color/noir"
+            android:text=
+                "@string/choixmode8"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textSize="15dp"
+            android:textColor="@color/noir"
+            android:drawableLeft="@drawable/cross"
+            android:text=
+                "@string/choixmode9"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17dp"
+            android:buttonTint="@color/bg_screen2"
+            android:layout_marginTop="17dp"
+            android:tag="essentiel"
+            android:text="@string/choixmode10"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="16dp"
+            android:textColor="@color/noir"
+            android:text=
+                "@string/choixmode11"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="15dp"
+            android:textColor="@color/noir"
+            android:drawableLeft="@drawable/cocher"
+            android:text=
+                "@string/choixmode12"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:drawableLeft="@drawable/cocher"
+            android:textSize="15dp"
+            android:textColor="@color/noir"
+            android:text=
+                "@string/choixmode13"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textSize="15dp"
+            android:textColor="@color/noir"
+            android:drawableLeft="@drawable/cocher"
+            android:text=
+                "@string/choixmode14"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textSize="15dp"
+            android:textColor="@color/noir"
+            android:drawableLeft="@drawable/cocher"
+            android:text=
+                "@string/choixmode15"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:textSize="15dp"
+            android:drawableLeft="@drawable/cocher"
+            android:textColor="@color/noir"
+            android:text=
+                "@string/choixmode16"/>
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/validerMode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/buttonvalider"
+            android:text="@string/choixmode17"/>
+
+
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
+</ScrollView>

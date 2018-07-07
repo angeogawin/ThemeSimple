@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2b78e4"
+    android:id="@+id/layoutessentielslide1"
+   >
+
+    <ImageView
+    android:id="@+id/locationButton"
+    android:layout_width="70dp"
+    android:layout_height="70dp"
+    android:layout_marginLeft="30dp"
+    android:src="@drawable/localisationoff"
+
+    android:layout_marginTop="50dp"
+    />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:text="@string/essentielslide1"
+        android:textSize="18dp"
+        android:layout_marginTop="75dp"
+        android:layout_alignLeft="@id/locationButton"
+        android:layout_below="@id/locationButton"
+        android:layout_alignTop="@id/locationButton"
+        android:layout_alignRight="@id/locationButton"
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+    <ImageView
+        android:id="@+id/wifiButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="10dp"
+
+        android:src="@drawable/wifioff"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:text="@string/essentielslide2"
+        android:textSize="18dp"
+        android:layout_marginTop="75dp"
+        android:layout_alignLeft="@id/wifiButton"
+        android:layout_alignRight="@id/wifiButton"
+        android:layout_below="@id/wifiButton"
+        android:layout_alignTop="@id/wifiButton"
+
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+
+    <ImageView
+        android:id="@+id/dataButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginRight="30dp"
+        android:src="@drawable/dataoff"
+        android:layout_alignParentRight="true"
+
+
+        android:layout_marginTop="50dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/essentielslide3"
+        android:textSize="18dp"
+        android:layout_marginTop="75dp"
+        android:layout_alignLeft="@id/dataButton"
+        android:layout_alignRight="@id/dataButton"
+        android:layout_below="@id/dataButton"
+        android:layout_alignTop="@id/wifiButton"
+
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+
+    <ImageView
+        android:id="@+id/planeButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/planeoff"
+        android:layout_centerVertical="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/essentielslide4"
+        android:textSize="18dp"
+        android:layout_marginTop="75dp"
+        android:layout_alignLeft="@id/planeButton"
+        android:layout_alignRight="@id/planeButton"
+        android:layout_below="@id/planeButton"
+        android:layout_alignTop="@id/planeButton"
+
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+
+    <ImageView
+        android:id="@+id/torcheButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="-40dp"
+        android:src="@drawable/torche"
+        android:layout_alignLeft="@id/settingsButton"
+        android:layout_centerVertical="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/essentielslide5"
+        android:textSize="18dp"
+        android:layout_marginTop="75dp"
+        android:layout_alignLeft="@id/torcheButton"
+        android:layout_alignRight="@id/torcheButton"
+        android:layout_below="@id/torcheButton"
+        android:layout_alignTop="@id/torcheButton"
+
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+    <ImageView
+        android:id="@+id/bluetoothButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="40dp"
+        android:src="@drawable/bluetooth"
+        android:layout_alignLeft="@id/settingsButton"
+        android:layout_centerVertical="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/essentielslide6"
+        android:textSize="18dp"
+        android:layout_marginTop="75dp"
+        android:layout_alignLeft="@id/bluetoothButton"
+        android:layout_below="@id/bluetoothButton"
+        android:layout_alignTop="@id/bluetoothButton"
+
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+    <ImageView
+        android:id="@+id/bellButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/bell"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/essentielslide7"
+        android:textSize="18dp"
+        android:layout_marginTop="75dp"
+        android:layout_alignLeft="@id/bellButton"
+        android:layout_alignRight="@id/bellButton"
+        android:layout_below="@id/bellButton"
+        android:layout_alignTop="@id/bellButton"
+
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+    <ImageView
+        android:id="@+id/musiqueButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/musique"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/essentielslide0"
+        android:textSize="18dp"
+        android:layout_marginTop="75dp"
+        android:layout_alignLeft="@id/musiqueButton"
+        android:layout_alignRight="@id/musiqueButton"
+        android:layout_below="@id/musiqueButton"
+        android:layout_alignTop="@id/musiqueButton"
+
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+    <ImageView
+        android:id="@+id/settingsButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="18dp"
+
+        android:src="@drawable/settings"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:layout_centerHorizontal="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/essentielslide8"
+        android:textSize="18dp"
+        android:layout_marginTop="65dp"
+        android:layout_alignLeft="@id/settingsButton"
+
+        android:layout_below="@id/settingsButton"
+        android:layout_alignTop="@id/settingsButton"
+
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical"
+
+    >
+
+
+
+        <ImageView
+            android:id="@+id/pinceau"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/pinceau"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center"/>
+
+
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/choixcouleur1"
+            android:layout_marginTop="150dp"
+            android:textAlignment="center"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="25dp"
+            android:textStyle="bold"
+         />
+
+        <Button
+            android:id="@+id/bleu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonbleu"
+            android:layout_below="@id/text"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="20dp"
+         />
+    <Button
+        android:id="@+id/rouge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/text"
+        android:background="@drawable/buttonrouge"/>
+    <Button
+        android:id="@+id/vert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/text"
+        android:layout_marginRight="25dp"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/buttonvert"/>
+    <Button
+        android:id="@+id/rose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/buttonrose"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/bleu"/>
+    <Button
+        android:id="@+id/jaune"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttonjaune"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/rouge"/>
+    <Button
+        android:id="@+id/noir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttonnoir"
+        android:layout_marginRight="25dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/vert"/>
+
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>
+</ScrollView>

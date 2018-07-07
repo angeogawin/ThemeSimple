@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2b78e4"
+    android:id="@+id/layoutpapislide2"
+   >
+    <TextClock
+        android:id="@+id/textClock"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:format12Hour="hh:mm"
+        android:gravity="center_horizontal"
+        android:textColor="#fff"
+        android:textSize="44sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/today_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textClock"
+       android:gravity="center_horizontal"
+        android:textColor="#fff"
+        android:textSize="30sp"/>
+
+
+    <ImageView
+       android:id="@+id/phoneButton"
+       android:layout_width="100dp"
+       android:layout_height="100dp"
+       android:src="@drawable/phone"
+       android:layout_centerVertical="true"
+       android:layout_alignParentLeft="true"
+       android:layout_marginLeft="40dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/essentielslide10"
+        android:textSize="18dp"
+        android:layout_marginTop="95dp"
+        android:layout_alignLeft="@id/phoneButton"
+        android:layout_alignRight="@id/phoneButton"
+        android:layout_alignTop="@id/phoneButton"
+
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+    <ImageView
+        android:id="@+id/msgButton"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="40dp"
+        android:src="@drawable/msg"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:text="@string/essentielslide11"
+        android:textSize="18dp"
+        android:layout_marginTop="95dp"
+        android:layout_alignLeft="@id/msgButton"
+        android:layout_alignRight="@id/msgButton"
+        android:layout_alignTop="@id/msgButton"
+
+        android:gravity="center_horizontal"
+        android:textColor="#fff"/>
+    <!--<ImageView
+        android:id="@+id/galleryButton"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="40dp"
+
+        android:src="@drawable/gallery"/>
+    <ImageView
+        android:id="@+id/apnButton"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginRight="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/apn"/>-->
+
+
+</RelativeLayout>

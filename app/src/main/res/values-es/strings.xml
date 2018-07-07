@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">FreshBubble</string>
+    <string name="title_activity_welcome">Pantalla de inicio
+</string>
+    <string name="next">Siguiente</string>
+    <string name="skip">Pasar</string>
+    <string name="start">Iniciar</string>
+
+    <string name="activityessentiel1">Error limpia</string>
+    <string name="activityessentiel2">Bluetooth no compatible</string>
+    <string name="activityessentiel3">A proposito</string>
+    <string name="activityessentiel4">Esta aplicación es desarrollada por OGAWINapp. Su pero es ayudarle a retirarse redes sociales y otras aplicaciones que toman veces demasiado su tiempo. \n La interfaz únicamente le presenta las funciones de base, verdaderamente indispensables. Usted tiene siempre acceso a los cansados aplicaciones de los otros, pero cansado expresiones de los sondeos sonido difíciles de encontrar. Para el rémarques, las cuestiones y las 
+sugerencias, no vacile en ponerlos sobre Play Store</string>
+    <string name="activityessentiel5">Los íconos de la interfaz proviennent de Icons8 y  Freepik de www.flaticon.com </string>
+    <string name="activityessentiel6">https://icons8.com</string>
+    <string name="choixcouleur1">Personaliza tu fondo de pantalla</string>
+    <string name="choixmode">Ninguno selección</string>
+    <string name="choixmode2">Escoge tu configuración</string>
+    <string name="choixmode3">Modo abuelo</string>
+    <string name="choixmode4">  Incluye:</string>
+    <string name="choixmode5">      Llamadas</string>
+    <string name="choixmode6">      Mensaje</string>
+    <string name="choixmode7">      Bluetooth</string>
+    <string name="choixmode8">      Luz</string>
+    <string name="choixmode9">      Wifi</string>
+    <string name="choixmode10">Modo esencial</string>
+    <string name="choixmode11">  Incluye:</string>
+    <string name="choixmode12">      Funcionalidades Modo abuelo</string>
+    <string name="choixmode13">      Wifi</string>
+    <string name="choixmode14">      Navegador web</string>
+    <string name="choixmode15">      Acceso correo electrónico</string>
+    <string name="choixmode16">      GPS</string>
+    <string name="choixmode17">OK</string>
+    <string name="essentielslide0">Música</string>
+    <string name="essentielslide1">GPS</string>
+    <string name="essentielslide2">WiFi</string>
+    <string name="essentielslide3"> Datos móviles</string>
+    <string name="essentielslide4">Modo avión</string>
+    <string name="essentielslide5">Luz</string>
+    <string name="essentielslide6">Bluetooth</string>
+    <string name="essentielslide7">Sonido</string>
+    <string name="essentielslide8">Configuraciones</string>
+    <string name="essentielslide9">Email</string>
+    <string name="essentielslide10">Tel</string>
+    <string name="essentielslide11">Mensaje</string>
+    <string name="essentielslide12">Mapa</string>
+    <string name="essentielslide13">Web</string>
+    <string name="parametres1">Color del fondo de pantalla</string>
+    <string name="parametres2">Cambiar de modo</string>
+    <string name="parametres3">A proposito</string>
+    <string name="welcomeslide1">Bienvenido</string>
+    <string name="welcomeslide2">FreshBubble está destinado a los que quieren desconectarse sus smartphones (redes sociales, juegos y otras aplicaciones que devuelven a fanático sin que se dé cuenta de eso)</string>
+
+    <string name="parametres4">Crear una burbuja of aislamiento</string>
+    <string name="parametres5">Definir FreshBubble como lanzador de falta</string>
+    <string name="parametres6">Fecha de destrucción de burbuja</string>
+    <string name="parametres7">Usted en primer lugar debe definir FreshBubble como el lanzador de falta</string>
+    <string name="definelauncher1">Definir Lanzador</string>
+    <string name="definelauncher2">¿COMO DEFINIR FRESHBUBBLE COMO LANZADOR DE FALTA?</string>
+    <string name="definelauncher3">1. Seleccionar Ajustes
+        \n2. Seleccionar \'Falta App Ajustes\' o búsqueda lo en Barra De búsqueda
+         \n3. Seleccionar \'Lanzador\'
+          \n4. Seleccionar FreshBubble
+           \n5. Pulsar el botón Home</string>
+    <string name="bullleisolation1">Definir duración de aislamiento</string>
+    <string name="bullleisolation2">Una burbuja de aislamiento le deja alcanzar sólo las funciones básicas de su teléfono.
+ \n\nEl Abuelo de modo (Llamadas, Mensajes, Bluetooth, así la Antorcha) es activado. La conexión WiFi es desactivada.
+  \n\nEn una burbuja de aislamiento, usted no puede dejar FreshBubble.</string>
+    <string name="bulleisolation3">Definir</string>
+    <string name="bulleisolation4">Que es una burbuja de aislamiento</string>
+</resources>

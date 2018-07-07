@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">FreshBubble</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Launch</string>
+
+    <string name="activityessentiel1">Flashlight error</string>
+    <string name="activityessentiel2">Bluetooth not supported</string>
+    <string name="activityessentiel3">About FreshBubble</string>
+    <string name="activityessentiel4">This application is developed by OGAWINapp. Its purpose is to help
+you to take a break with  social networks and other applications which take sometimes too much your time \n
+
+The interface presents you only the really essential, basic 
+functions. You always have access to the other applications, 
+but they are expressly made difficult of access \n
+ For the remarks, the questions and the suggestions, do not hesitate to put them on Play Store</string>
+    <string name="activityessentiel5">The icons of the interface come from Icons8 and Icon made by Freepik from www.flaticon.com </string>
+    <string name="activityessentiel6">https://icons8.com</string>
+    <string name="choixcouleur1">Personalize your wallpaper</string>
+    <string name="choixmode">Checkboxes unchecked</string>
+    <string name="choixmode2">Choose your configuration</string>
+    <string name="choixmode3">Grandpa mode</string>
+    <string name="choixmode4">  Includes :</string>
+    <string name="choixmode5">      Calls</string>
+    <string name="choixmode6">      Messages</string>
+    <string name="choixmode7">      Bluetooth</string>
+    <string name="choixmode8">      Flashlight</string>
+    <string name="choixmode9">      Wifi</string>
+    <string name="choixmode10">Essential mode</string>
+    <string name="choixmode11">  Includes</string>
+    <string name="choixmode12">      Grandpa mode features</string>
+    <string name="choixmode13">      Wifi</string>
+    <string name="choixmode14">      Web browser</string>
+    <string name="choixmode15">      Email Access</string>
+    <string name="choixmode16">      GPS</string>
+    <string name="choixmode17">OK</string>
+    <string name="essentielslide0">Music</string>
+    <string name="essentielslide1">GPS</string>
+    <string name="essentielslide2">WiFi</string>
+    <string name="essentielslide3">Mobile Data</string>
+    <string name="essentielslide4">Airplane mode</string>
+    <string name="essentielslide5">Flashlight</string>
+    <string name="essentielslide6">Bluetooth</string>
+    <string name="essentielslide7">Sound</string>
+    <string name="essentielslide8">Settings</string>
+    <string name="essentielslide9">Email</string>
+    <string name="essentielslide10">Call
+</string>
+    <string name="essentielslide11">Message</string>
+    <string name="essentielslide12">Map</string>
+    <string name="essentielslide13">Web</string>
+    <string name="parametres1">Wallpaper color</string>
+    <string name="parametres2">Set mode</string>
+    <string name="parametres3">About FreshBubble</string>
+    <string name="welcomeslide1">Welcome </string>
+    <string name="welcomeslide2">FreshBubble is intended for those who want to disconnect of their smartphones (social networks, games and other applications which make hooked without you realize it)</string>
+
+
+    <string name="parametres4">Create a bubble of isolation</string>
+    <string name="parametres5">Define FreshBubble as default launcher</string>
+    <string name="parametres6">Date of bubble destruction</string>
+    <string name="parametres7">You must firstly define FreshBubble as default launcher </string>
+    <string name="definelauncher1">Set launcher</string>
+    <string name="definelauncher2">HOW TO DEFINE FRESHBUBBLE AS DEFAULT LAUNCHER ?</string>
+    <string name="definelauncher3">1. Open Settings
+        \n2. Open \'Default App Settings\' or search it in Search Bar
+         \n3. Select \'Launcher\'
+          \n4. Select FreshBubble
+           \n5. Press Home button</string>
+    <string name="bullleisolation1">Define duration of isolation</string>
+    <string name="bullleisolation2">A bubble of isolation lets you reach only the basic functions of your phone.
+ \n\nThe mode Grandpa (Calls, Messages, Bluetooth, thus Torch) is activated. The WiFi connection is deactivated.
+  \n\nIn a bubble of isolation, you can\'t quit FreshBubble.</string>
+    <string name="bulleisolation3">Define</string>
+    <string name="bulleisolation4">What is a isolation bubble</string>
+</resources>

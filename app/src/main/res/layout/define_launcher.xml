@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/define"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/definelauncher1"
+        android:textAllCaps="false"
+        android:background="@drawable/buttonvalider"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/define"
+        android:layout_marginLeft="15dp"
+        android:textSize="17sp"
+        android:layout_marginTop="15dp"
+        android:text="@string/definelauncher2"
+        android:textColor="@color/vert"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text1"
+        android:textSize="16sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/definelauncher3"
+        android:textColor="#000"/>
+
+
+</RelativeLayout>

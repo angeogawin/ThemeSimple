@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Suivant</string>
+    <string name="skip">Passer</string>
+    <string name="start">Lancer</string>
+
+    <string name="activityessentiel1">Erreur torche</string>
+    <string name="activityessentiel2">Bluetooth non supporté</string>
+    <string name="activityessentiel3">A propos</string>
+    <string name="activityessentiel4">Cette application est développée par OGAWINapp.Son but est de vous aider à décrocher des réseaux sociaux et autres applications qui prennent parfois trop de votre temps.\n
+        L\'interface vous présente uniquement les fonctions de base, vraiment indispensables.Vous avez toujours accès aux autres applications, mais elles sont expressement rendues difficiles d\'accès.\n
+        Pour les remarques, questions et suggestions,n\'hésitez pas à les poser sur le Play Store</string>
+    <string name="activityessentiel5">Les icones de l\'interface proviennent de Icons8,et Freepik from www.flaticon.com </string>
+    <string name="activityessentiel6">https://icons8.com </string>
+    <string name="choixcouleur1">Personnalise ton fond d\'écran</string>
+    <string name="choixmode">Aucune case cochée</string>
+    <string name="choixmode2">Choisis ta configuration</string>
+    <string name="choixmode3">Mode Papi</string>
+    <string name="choixmode4">  Comprend:</string>
+    <string name="choixmode5">      Appels</string>
+    <string name="choixmode6">      Messages</string>
+    <string name="choixmode7">      Bluetooth</string>
+    <string name="choixmode8">      Torche</string>
+    <string name="choixmode9">      Wifi</string>
+    <string name="choixmode10">Mode Essentiel</string>
+    <string name="choixmode11">  Comprend:</string>
+    <string name="choixmode12">      Fonctionnalités Mode Papi</string>
+    <string name="choixmode13">      Wifi</string>
+    <string name="choixmode14">      Navigateur Internet</string>
+    <string name="choixmode15">      Accès Email</string>
+    <string name="choixmode16">      GPS</string>
+    <string name="choixmode17">Valider</string>
+    <string name="essentielslide0">Musique</string>
+    <string name="essentielslide1">GPS</string>
+    <string name="essentielslide2">Wifi</string>
+    <string name="essentielslide3">Données mobiles</string>
+    <string name="essentielslide4">Mode avion</string>
+    <string name="essentielslide5">Torche</string>
+    <string name="essentielslide6">Bluetooth</string>
+    <string name="essentielslide7">Son</string>
+    <string name="essentielslide8">Paramètres</string>
+    <string name="essentielslide9">Email</string>
+    <string name="essentielslide10">Tel</string>
+    <string name="essentielslide11">Message</string>
+    <string name="essentielslide12">Carte</string>
+    <string name="essentielslide13">Web</string>
+    <string name="parametres1">Couleur du fond d\'écran</string>
+    <string name="parametres2">Changer de mode</string>
+    <string name="parametres3">A propos</string>
+
+    <string name="parametres4">Créer une bulle d\'isolation</string>
+    <string name="parametres5">Définir FreshBubble comme lanceur par défaut</string>
+    <string name="parametres6">Date de destruction de la bulle:</string>
+    <string name="parametres7">Tu dois d\'abord définir FreshBubble comme lanceur par défaut </string>
+    <string name="definelauncher1">Définir le lanceur</string>
+    <string name="definelauncher2">COMMENT DEFINIR FRESHBUBBLE COMME LANCEUR PAR DEFAUT ?</string>
+    <string name="definelauncher3">1. Ouvrir les paramètres du téléphone
+        \n2. Ouvrir \'Application par défaut\' ou le rechercher dans la barre de recherche
+         \n3. Sélectionner \'Gérer l\'interface\' (lanceur)
+          \n4. Sélectionner FreshBubble
+           \n5. Appuyer sur le bouton Home</string>
+    <string name="bullleisolation1">Définir la durée d\'isolation</string>
+    <string name="bullleisolation2">Une bulle d\'isolation vous laisse accéder uniquement aux fonctions de base de votre téléphone.
+ \n\nLe mode Papi ( Appels, Messages, Bluetooth, Torche) est donc activé. La connexion Wifi est désactivée.
+  \n\nDans une bulle d\'isolation, vous ne pouvez pas sortir de FreshBubble.</string>
+    <string name="bulleisolation3">Définir</string>
+    <string name="bulleisolation4">Qu\'est-ce qu\'une bulle d\'isolation?</string>
+
+    <string name="welcomeslide1">Bienvenue à toi</string>
+    <string name="welcomeslide2">FreshBubble est destinée à ceux qui veulent se déconnecter
+        de leurs smartphones(réseaux sociaux, jeux et autres applications qui rendent accro sans qu\'on s\'en rende compte)</string>
+
+</resources>
